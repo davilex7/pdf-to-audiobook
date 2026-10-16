@@ -1,0 +1,20 @@
+# Claves y configuración local
+.env
+
+# Archivos de entrada y salida (apuntes y audiolibros generados)
+*.pdf
+*.mp3
+*.wav
+*_narracion.txt
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Sistema / editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
