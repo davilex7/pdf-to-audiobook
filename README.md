@@ -1,3 +1,5 @@
+<p align="center"><img src="docs/logo.png" width="140" alt="PDF → Audiolibro"/></p>
+
 # 🎓 PDF → Audiolibro
 
 **Convierte un PDF de apuntes en un audiolibro narrado como si te lo explicara un profesor.**
